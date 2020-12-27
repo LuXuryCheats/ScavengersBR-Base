@@ -1,0 +1,1 @@
+modmap Scavenger-Win64-Shipping.exe dxgi.dll Scavengers.dll
